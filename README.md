@@ -1,4 +1,4 @@
-<h1 align="center">Hey dawgs! 🎶</h1>
+<h1 align="center">Hey dawgs! 😊</h1>
 
 <p align="center"><img src="NW0mK39.gif" alt="uwu"></p>
 <p align="center">
