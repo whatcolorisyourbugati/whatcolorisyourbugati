@@ -4,5 +4,5 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=whatcolorisyourbugati&countColor=%23e37383">
   <img src="https://img.shields.io/github/followers/whatcolorisyourbugati?color=e37383&style=for-the-badge&logo=github&label=Follow">
-  <img src="https://img.shields.io/github/stars/whatcolorisyourbugati?color=f429ff&style=for-the-badge&logo=github&label=Stars">
+  <img src="https://img.shields.io/github/stars/whatcolorisyourbugati?color=e37383&style=for-the-badge&logo=github&label=Stars">
 </p>
