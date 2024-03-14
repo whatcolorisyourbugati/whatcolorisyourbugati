@@ -15,3 +15,5 @@ class AboutMe:
     self.discord = "goku.io"
     self.watching = ['mashle', 'one piece (long ass)']
 ```
+
+Stay tuned for License Authorization API it is going to be public <3
