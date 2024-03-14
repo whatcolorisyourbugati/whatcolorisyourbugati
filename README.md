@@ -6,3 +6,12 @@
   <img src="https://img.shields.io/github/followers/whatcolorisyourbugati?color=e37383&style=for-the-badge&logo=github&label=Follow">
   <img src="https://img.shields.io/github/stars/whatcolorisyourbugati?color=e37383&style=for-the-badge&logo=github&label=Stars">
 </p>
+
+```
+class AboutMe:
+  def __init__(self):
+    self.projects_inbound = ["hCaptcha Solver", "License Authorization API"]
+    self.name = "Mohammad Hassan"
+    self.discord = "goku.io"
+    self.watching = ['mashle', 'one piece (long ass)']
+```
