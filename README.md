@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/whatcolorisyourbugati?color=e37383&style=for-the-badge&logo=github&label=Stars">
 </p>
 
-```
+```py
 class AboutMe:
   def __init__(self):
     self.projects_inbound = ["hCaptcha Solver", "License Authorization API"]
